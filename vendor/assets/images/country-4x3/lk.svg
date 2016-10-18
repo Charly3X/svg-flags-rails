@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!-- Created with Sodipodi ("http://www.sodipodi.com/") -->
-<svg id="svg551" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="512" width="512" viewBox="0 0 512 512" version="1.1" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+<svg id="svg551" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="480" width="640" version="1.1" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
  <metadata id="metadata3321">
   <rdf:RDF>
    <cc:Work rdf:about="">
@@ -10,10 +10,10 @@
   </rdf:RDF>
  </metadata>
  <g id="flag">
-  <rect id="rect628" fill-rule="evenodd" height="512" width="512" y="0" x="0" stroke-width="1pt" fill="#fc0"/>
-  <rect id="rect626" fill-rule="evenodd" height="426.63" width="163.63" y="42.685" x="203.76" stroke-width="1pt" fill="#f60"/>
-  <rect id="rect625" fill-rule="evenodd" height="426.7" width="161.23" y="42.685" x="42.663" stroke-width="1pt" fill="#060"/>
-  <g id="g8183" transform="matrix(.58168 0 0 .58168 -100.53 195.38)">
+  <rect id="rect628" fill-rule="evenodd" height="480" width="640" y="0" x="0" stroke-width="1pt" fill="#fc0"/>
+  <rect id="rect626" fill-rule="evenodd" height="403.22" width="202.1" y="42.685" x="241.63" stroke-width="1pt" fill="#f60"/>
+  <rect id="rect625" fill-rule="evenodd" height="403.28" width="199.14" y="42.685" x="42.663" stroke-width="1pt" fill="#060"/>
+  <g id="g8183" transform="matrix(.64405 0 0 .64405 -21.731 144.1)">
    <rect id="rect627" fill-rule="evenodd" height="426.71" width="571.23" y="42.671" x="410.1" stroke-width="1pt" fill="#991b33"/>
    <g id="g602" fill="#fc0" transform="matrix(2.3701 0 0 2.3701 0 -.000076422)">
     <path id="path579" stroke-linejoin="round" d="m267.94 101.34 3.555 0.091s-4.01 3.372-3.099 7.929c4.193-6.197 5.742-5.013 5.742-5.013-1.276 1.367-3.737 3.281-1.823 7.474 1.641-4.284 5.013-7.565 5.013-7.565s-0.912 4.739 1.093 9.114c1.458-4.375 3.919-8.111 3.919-8.111s-0.364 4.739 1.732 6.47c1.64-1.458 2.734-5.195 2.734-5.195s3.099 5.469 5.013 6.289c1.549-3.737 1.549-6.653 1.549-6.653s6.38 4.557 11.483 1.914c-4.557-1.64-6.106-5.468-6.106-5.468s8.294 3.645 11.848 2.005c-3.464-2.644-11.574-6.5623-11.574-6.5623s6.015 2.1873 7.746 1.6405c-0.82-1.1848-3.463-2.6431-3.463-2.6431" fill-rule="evenodd" stroke="#991b33" stroke-linecap="round" stroke-width="1pt"/>
